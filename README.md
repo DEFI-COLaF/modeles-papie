@@ -1,2 +1,5 @@
 # modeles-papie
-Releases of PaPie Models in the context of COLaF
+Releases of [PaPie](https://github.com/lascivaroma/PaPie) models in the context of COLaF
+
+## Details by language
+- [Occitan](occitan.md)
