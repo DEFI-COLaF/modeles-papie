@@ -1,6 +1,8 @@
 # modeles-papie
 Releases of [PaPie](https://github.com/lascivaroma/PaPie) models in the context of COLaF
 
+The .tar files of our models are available in the [releases](https://github.com/DEFI-COLaF/modeles-papie/releases) section.
+
 ## Details by language
 - [Occitan](occitan.md)
 
